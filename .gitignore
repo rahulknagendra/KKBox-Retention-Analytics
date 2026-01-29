@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.local
+
+# Python virtual environments
+kenv/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+
+
