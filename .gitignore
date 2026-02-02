@@ -22,4 +22,5 @@ __pycache__/
 # OS
 .DS_Store
 
-
+# Large data files
+data/features_for_modeling.csv
