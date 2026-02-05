@@ -1,0 +1,16 @@
+# Data manipulation
+pandas
+numpy
+
+# Google Cloud
+google-cloud-bigquery
+
+# Visualization
+matplotlib
+
+# Machine learning
+scikit-learn
+statsmodels
+
+# Environment and utilities
+python-dotenv
